@@ -9,10 +9,10 @@ const axiosClient = axios.create({
   })
   
 const auth = {
-    client_id: '5e3f9fb9777bfcacee720342',
-    client_secret: 'rSB31YIylu619sKu9gRj8wX8BPAFeP9I3jzeg',
-    username: 'kasumy1215@gmail.com',
-    password: '19881215_nknKSM',
+    client_id: '***put your client ID***',
+    client_secret: '*** put your client secret***',
+    username: '***put your username***',
+    password: '***put your password***',
     grant_type: 'password'
   }
   

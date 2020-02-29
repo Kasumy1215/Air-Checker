@@ -1,5 +1,5 @@
-# tech_talk
-
+# Air Checker
+This was created during our time for student at Code Create.
 ## Project setup
 ```
 yarn install
